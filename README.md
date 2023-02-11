@@ -18,6 +18,8 @@ Requirements :
   Limitations : No sound, frame size. They are camera's server setting limitations.
   
 	
+	
+	
 	(All trademarks, logos and brand names are the property of their respective owners.
 	All company, product and service names are for identification purposes only.
 	Use of these names,trademarks and brands does not imply endorsement.)
