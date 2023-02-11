@@ -5,9 +5,10 @@ Purpose : grab and show video preview via WiFi from 4k/WiFi ®Allwinner v3.0 com
 
 Requirements : 
   Camera :    sport/action/dash cam Wifi/Ultra HD 4K (F60/x, ThiEye i60x, SJCAM, TecTecTec, WiMiUS, Campark, Excelvan,...)
-              Tested : firmware v5.0
               Depending on the firmware, some code adjustments may be required : camera ip, host ip, camera port...
+	      Tested : firmware v5.0
               Wanted : user feedback and tests are welcome.
+	      
               
   Platform :  Windows + Python version >3.7 + Opencv, Pywin32 librairies
               Tested : win8, win10, Python v3.8 and v3.11, Pywin32 v303, Opencv 4.54
