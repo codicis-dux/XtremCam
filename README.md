@@ -1,9 +1,9 @@
 ----------------------------------------------------------------------------------------------------------------
-	## XtremCam for MS®Windows
+	# XtremCam for MS®Windows
 
-# Purpose :	grab and show video preview via WiFi from 4k/WiFi ®Allwinner v3.0 compatible cameras
+  Purpose :	grab and show video preview via WiFi from 4k/WiFi ®Allwinner v3.0 compatible cameras
 
-# Requirements
+  Requirements
   	Camera : sport/action/dash cam Wifi/Ultra HD 4K (F60/F60B, ThiEye i60x, SJCAM, TecTecTec,
 		WiMiUS, Campark, Excelvan,...)
               Depending on the firmware, some code adjustments may be required :
