@@ -1,10 +1,9 @@
 -------------------------------------------------------------------------------------------------------------
 #			XtremCam for MS®Windows
 
-Purpose :	grab and show video preview via WiFi from 4k/WiFi ®Allwinner v3.0 compatible cameras
+Purpose :	grab and show video preview via WiFi from 4K/WiFi ®Allwinner v3.0 compatible cameras
 
-Requirements
-
+Requirements :
 	Camera : sport/action/dash cam Wifi/Ultra HD 4K
 			(e.g. F60/F60B, ThiEye i60x, SJCAM, TecTecTec, WiMiUS, Campark, Excelvan,...)
 	
@@ -24,13 +23,13 @@ Limitations : No sound, frame size. They are camera's server setting limitations
   All company, product and service names are for identification purposes only.
   Use of these names,trademarks and brands does not imply endorsement.)
   
-  Licence:
+ Licence:
 	Creative Commons(CC BY-NC-SA 4.0) applies to the whole work or any part of the code.
 	This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International.
 	To view a copy of this license : http://creativecommons.org/licenses/by-nc-sa/4.0/
 	
 
-	Disclaimer :
+Disclaimer :
 	The software is provided "as is", without warranty of any kind, express or implied, including but
 	not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
 	In no event shall the authors or copyright holders be liable for any claim, damages or other liability
