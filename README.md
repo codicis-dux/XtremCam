@@ -27,7 +27,9 @@
         Creative Commons(CC BY-NC-SA 4.0) applies to the whole work or any part of the code.
         This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International.
         To view a copy of this license : http://creativecommons.org/licenses/by-nc-sa/4.0/
-Disclaimer :
+
+  
+  Disclaimer :
 	The software is provided "as is", without warranty of any kind, express or implied, including but
 	not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
 	In no event shall the authors or copyright holders be liable for any claim, damages or other liability
