@@ -1,12 +1,12 @@
 -------------------------------------------------------------------------------------------------------------
-#			XtremCam for MS®Windows
+#			XtremCam WiFi for MS®Windows
 
 Purpose :	grab and show video preview via WiFi from 4K/WiFi ®Allwinner v3.0 compatible cameras
 
 Requirements :
 
-	Camera : sport/action/dash cam Wifi/Ultra HD 4K
-			(e.g. F60/F60B, ThiEye i60x, SJCAM, TecTecTec, WiMiUS, Campark, Excelvan,...)
+	Camera : sport/action/dashcam Wifi/4K UltraHD
+			(e.g. F60/F60R, ThiEye i60x, SJCAM, TecTecTec, WiMiUS, Campark, Excelvan,...)
 	
 	Depending on the firmware, some code adjustments may be required : camera ip, host ip, camera port...
 	Tested : firmware v5.0
