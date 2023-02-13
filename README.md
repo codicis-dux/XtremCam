@@ -12,6 +12,7 @@ Requirements :
 	Tested : firmware v5.0
 	
 Platform :  Windows + Python version >3.7 + Opencv, Pywin32 librairies
+	
 	others : expecting submissions and commits
 	Tested : win8, win10, Python v3.8 and v3.11, Pywin32 v303, Opencv 4.54
 
