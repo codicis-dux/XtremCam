@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------
-	# XtremCam for MS®Windows
+#			XtremCam for MS®Windows
 
 Purpose :	grab and show video preview via WiFi from 4k/WiFi ®Allwinner v3.0 compatible cameras
 
@@ -28,11 +28,11 @@ Limitations : No sound, frame size. They are camera's server setting limitations
 			This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International.
 			To view a copy of this license : http://creativecommons.org/licenses/by-nc-sa/4.0/
 	
-	Disclaimer :
-		The software is provided "as is", without warranty of any kind, express or implied, including but
-		not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
-		In no event shall the authors or copyright holders be liable for any claim, damages or other liability
-		(including, but not limited to, procurement of substitute goods or services, loss of use, data, profits
-		or business interruption), whether in an action of contract, tort or otherwise, arising from, out of or
-		in connection with the software or the use or other dealings in the software. -use at your own risk-
+Disclaimer :
+	The software is provided "as is", without warranty of any kind, express or implied, including but
+	not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
+	In no event shall the authors or copyright holders be liable for any claim, damages or other liability
+	(including, but not limited to, procurement of substitute goods or services, loss of use, data, profits
+	or business interruption), whether in an action of contract, tort or otherwise, arising from, out of or
+	in connection with the software or the use or other dealings in the software. -use at your own risk-
 ---------------------------------------------------------------------------------------------------------------
