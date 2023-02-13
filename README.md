@@ -4,8 +4,9 @@
 Purpose :	grab and show video preview via WiFi from 4k/WiFi ®Allwinner v3.0 compatible cameras
 
 Requirements
+
 	Camera : sport/action/dash cam Wifi/Ultra HD 4K
-		(e.g. F60/F60B, ThiEye i60x, SJCAM, TecTecTec, WiMiUS, Campark, Excelvan,...)
+			(e.g. F60/F60B, ThiEye i60x, SJCAM, TecTecTec, WiMiUS, Campark, Excelvan,...)
 	
 	Depending on the firmware, some code adjustments may be required : camera ip, host ip, camera port...
 	Tested : firmware v5.0
@@ -28,7 +29,8 @@ Limitations : No sound, frame size. They are camera's server setting limitations
 	This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International.
 	To view a copy of this license : http://creativecommons.org/licenses/by-nc-sa/4.0/
 	
-Disclaimer :
+
+	Disclaimer :
 	The software is provided "as is", without warranty of any kind, express or implied, including but
 	not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
 	In no event shall the authors or copyright holders be liable for any claim, damages or other liability
