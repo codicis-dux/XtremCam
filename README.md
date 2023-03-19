@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------------------------
-#			XtremCam WiFi for MS®Windows
+#			XtremCam WiFi for MS®Windows and sport/action camera
 
-Purpose :	grab and show video preview via WiFi from 4K/WiFi ®Allwinner v3.0 compatible cameras
+Purpose :	Video preview via WiFi from 4K/WiFi ®Allwinner v3.0 compatible cameras
 
 Requirements :
 
