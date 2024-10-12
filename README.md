@@ -18,7 +18,7 @@ Platform :  Windows + Python version >3.7 + Opencv, Pywin32 librairies
 
 Usage :  refer to batch file "xcam4win.bat".
   
-Limitations : No sound, frame size. They are camera's server setting limitations.
+Limitations : No sound, frame size. They are camera server setting limitations.
   
 -------------------------------------------------------------------------------------------------------------
 	
