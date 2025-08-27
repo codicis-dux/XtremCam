@@ -26,7 +26,7 @@ Limitations : No sound, frame size. They are camera server setting limitations.
   All company, product and service names are for identification purposes only.
   Use of these names,trademarks and brands does not imply endorsement.)
   
-Licence:
+License:
  
 	Creative Commons(CC BY-NC-SA 4.0) applies to the whole work or any part of the code.
 	This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International.
